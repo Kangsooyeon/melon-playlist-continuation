@@ -16,3 +16,7 @@
 train.json EDA
 
 협업 필터링 코드 구현 중
+
+
+
+https://github.com/JunsolKim/kakao-arena-melon-ysocio13 참고
