@@ -20,6 +20,7 @@ train.json EDA
 
 
 
+참고
 
 https://brunch.co.kr/@kakao-it/342
 
