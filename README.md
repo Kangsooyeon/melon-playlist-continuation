@@ -10,5 +10,7 @@
 - song_meta.json
 
 <현재 진행 상황>
-train.json EDA.
+
+train.json EDA
+
 협업 필터링 코드 구현 중
