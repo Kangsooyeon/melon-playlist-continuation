@@ -19,4 +19,10 @@ train.json EDA
 
 
 
-https://github.com/JunsolKim/kakao-arena-melon-ysocio13 참고
+
+
+https://brunch.co.kr/@kakao-it/342
+https://github.com/JunsolKim/kakao-arena-melon-ysocio13
+https://github.com/powerzist/kakao-arena-3rd
+https://eprints.sztaki.hu/9560/1/Kelen_1_30347064_ny.pdf
+https://github.com/jjun0127/MelonRec
